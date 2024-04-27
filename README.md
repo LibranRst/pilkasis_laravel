@@ -1,4 +1,4 @@
-# PILKASIS
+# PILKASIS - (Old project during my internship at PT. Karya Eka Nala)
 
 ## About 
 
@@ -13,6 +13,11 @@ PILKASIS adalah sebuah aplikasi pemilihan ketua OSIS secara online.
 - Register sebagai admin
 - Menambah user dengan data excel
 - Diagram voting  
+
+## Team working on this project.
+- https://github.com/valentinocfs (Valentino)
+- https://github.com/LibranRst (MySelf)
+- I don't know Tedy's GitHub account/profile :( (Tedy Sukma)
 
 ## Credits
 
